@@ -11,4 +11,9 @@ public class C31 {
         String valor = "m2";
         return valor;
     }
+
+    public String mB() {
+        String valor = "mB";
+        return valor;
+    }
 }
